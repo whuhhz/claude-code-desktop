@@ -8,4 +8,5 @@ built on the underlying source code of Claude Code, adopting a direct source cod
 4.内置浏览器，编辑器，shell终端，代码变更，会话内可按需打开查看执行 
 5.命令，记忆，任务，技能，智能体，插件，mcp均可视化管理。
 6.20多种命令，技能，子代理不同的渲染方式，显示更直观..
-软件链接: https://pan.baidu.com/s/10d1QDZXBCh-oyr0cArvBrA 提取码: 3pyz
+通过网盘分享的文件：mind
+链接: https://pan.baidu.com/s/1zELfdsKwePZ-htUv_ymMew?pwd=u9rn 提取码: u9rn
